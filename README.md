@@ -36,7 +36,7 @@ BSc in Economics and Business Administration - Goethe University Frankfurt
 - IIBA ECBA (Entry Certificate in Business Analysis)
 
 #### 📄 Resume
-[📥 View my resume]([https://your-link.com/resume.pdf](https://drive.google.com/file/d/1_7bLq0Sv4OTj_V7uty1zabL9OHIonB28/view?usp=sharing))
+https://drive.google.com/file/d/1_7bLq0Sv4OTj_V7uty1zabL9OHIonB28/view?usp=sharing
 ---
 
 > ⚡ “Get it done, then make it better.”
