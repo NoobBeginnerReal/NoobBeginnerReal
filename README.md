@@ -27,14 +27,6 @@ I specialize in using **Python**, **Power BI**, and **SQL** to extract insights,
 - Real-world impact over just accuracy  
 - Continuous improvement – even if it means 100+ hours a week
 
-#### 🧾 Certifications
-- Microsoft PL-300 (Power BI Data Analyst Associate)
-- DataCamp Professional Data Analyst in Python
-- DataCamp Associate Data Analyst in SQL
-- Hackerrank SQL Advanced
-- Coursera Business Intelligence  
-- IIBA ECBA (Entry Certificate in Business Analysis)
-
 #### 📄 Resume
 https://drive.google.com/file/d/1_7bLq0Sv4OTj_V7uty1zabL9OHIonB28/view?usp=sharing
 ---
