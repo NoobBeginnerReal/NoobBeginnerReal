@@ -16,8 +16,8 @@ I specialize in using **Python**, **Power BI**, and **SQL** to extract insights,
 - **Manufacturing Firm Decision Tree**: Clean logic flow, intuitive interpretation for non-technical users
 
 #### 🎓 Education
-BSc in Economics and Business Administration - Vietnamese-German University (VGU)
-BSc in Economics and Business Administration - Goethe University Frankfurt
+- BSc in Economics and Business Administration - Vietnamese-German University (VGU)
+- BSc in Economics and Business Administration - Goethe University Frankfurt
 
 #### 🛠 Tools & Skills
 `Python` | `Pandas` | `Scikit-learn` | `Power BI` | `SQL` | `Google Colab` | `Excel`
