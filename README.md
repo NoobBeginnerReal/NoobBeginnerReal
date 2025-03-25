@@ -23,7 +23,7 @@ BSc in Economics and Business Administration - Goethe University Frankfurt
 `Python` | `Pandas` | `Scikit-learn` | `Power BI` | `SQL` | `Google Colab` | `Excel`
 
 #### 🚀 What I value
-- Clean, interpretable code  
+- Result-driven and implementable solutions  
 - Real-world impact over just accuracy  
 - Continuous improvement – even if it means 100+ hours a week
 
