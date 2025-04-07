@@ -23,15 +23,15 @@ I specialize in using **Python**, **Power BI**, and **SQL** to extract insights,
 `Python` | `Pandas` | `Scikit-learn` | `Power BI` | `SQL` | `Google Colab` | `Excel`
 
 #### 🚀 What I value
+- Extreme Ownership
 - Result-driven and implementable solutions  
-- Real-world impact over just accuracy  
 - Continuous improvement – even if it means 100+ hours a week
 
 #### 📄 Resume
 https://drive.google.com/file/d/1_7bLq0Sv4OTj_V7uty1zabL9OHIonB28/view?usp=sharing
 ---
 
-> ⚡ “Get it done, then make it better.”
+> ⚡ “Get started, get better, never stops.”
 
 <!--
 📫 Reach me on LinkedIn: [your-link]  
